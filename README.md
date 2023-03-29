@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gursimranjot
 - 👀 I’m interested in Frontend development, UI/UX Design, photography and making videos for the internet
-- 🌱 I’m currently learning Blender and film making
+- 🌱 I’m currently learning react and film making
 - 💞️ I’m looking to collaborate on making youtube videos
 - 📫 How to reach me ... simran23dhiman@gmail.com
 
